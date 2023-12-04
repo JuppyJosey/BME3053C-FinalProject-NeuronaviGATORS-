@@ -35,7 +35,7 @@ Ensure your dataset is structured as follows:
 
 ### Testing the Model
 1. After training, run the testing script
-2. 2. The script will use the trained model to classify the images in the testing dataset.
+2. The script will use the trained model to classify the images in the testing dataset.
 3. The output will include a confusion matrix and other performance metrics.
 
 ### Evaluating Results
